@@ -1,0 +1,1182 @@
+[
+  {
+    "course_name": "Taught degree programmes A‑Z",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/"
+  },
+  {
+    "course_name": "Academic Practice [MEd: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/academicpractice/"
+  },
+  {
+    "course_name": "Adult Learning, Community Development & Youth Work Practice [MEd/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/adult-learning-community-development-youth-work/"
+  },
+  {
+    "course_name": "Advanced Functional Materials [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/advanced-functional-materials/"
+  },
+  {
+    "course_name": "Advanced Imaging & Sensing [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/advanced-imaging-sensing/"
+  },
+  {
+    "course_name": "Advanced Practice in Veterinary Nursing [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/vet-nurse/"
+  },
+  {
+    "course_name": "Advanced Statistics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/advanced-statistics/"
+  },
+  {
+    "course_name": "Aerospace Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/aerospace-engineering/"
+  },
+  {
+    "course_name": "Aerospace Engineering & Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/aerospace-engineering-management/"
+  },
+  {
+    "course_name": "Human Anatomy [PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/humananatomy/"
+  },
+  {
+    "course_name": "Ancient Cultures [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/ancient-cultures/"
+  },
+  {
+    "course_name": "Animal Nutrition [MSc/PgDip/PgCert/CPD: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/animal-nutrition/"
+  },
+  {
+    "course_name": "Animal Welfare Science, Ethics & Law [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/animal-welfare-science/"
+  },
+  {
+    "course_name": "Applied Conservation Science [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/applied-conservation-science/"
+  },
+  {
+    "course_name": "Applied Linguistics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/applied-linguistics/"
+  },
+  {
+    "course_name": "Mathematics / Applied Mathematics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/mathematicsappliedmathematics/"
+  },
+  {
+    "course_name": "Applied Neuropsychology [MSc(MedSci)/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/applied-neuropsychology/"
+  },
+  {
+    "course_name": "Archaeology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/archaeology/"
+  },
+  {
+    "course_name": "Art History [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/art-history/"
+  },
+  {
+    "course_name": "Art History: Dress & Textile Histories [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/dress-textile-histories/"
+  },
+  {
+    "course_name": "Art History: Technical Art History, Making & Meaning [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/technical-art-history/"
+  },
+  {
+    "course_name": "Astrophysics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/astrophysics/"
+  },
+  {
+    "course_name": "Behavioural Science [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/behavioural-science/"
+  },
+  {
+    "course_name": "Bioinformatics [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/bioinformatics/"
+  },
+  {
+    "course_name": "Biomedical Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/biomedical-engineering/"
+  },
+  {
+    "course_name": "Biomedical Sciences [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/biomedical-science-msc/"
+  },
+  {
+    "course_name": "Biomedical Sciences [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/biomedical-sciences-mres/"
+  },
+  {
+    "course_name": "Statistics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/statistics/"
+  },
+  {
+    "course_name": "Biotechnology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/biotechnology/"
+  },
+  {
+    "course_name": "Biotechnology & Management [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/biotechnology-management/"
+  },
+  {
+    "course_name": "Book & Paper Conservation [MPhil]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/book-paper-conservation/"
+  },
+  {
+    "course_name": "Brain Sciences [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/brain-sciences/"
+  },
+  {
+    "course_name": "Business Analytics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/business-analytics/"
+  },
+  {
+    "course_name": "Cancer Pathology and Advanced Technologies [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/cancer-pathology-technologies/"
+  },
+  {
+    "course_name": "Cancer Research & Precision Oncology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/cancer-research-precision-oncology/"
+  },
+  {
+    "course_name": "Cancer Research (with specialism) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/cancer-research-with-specialism/"
+  },
+  {
+    "course_name": "Cardiovascular Sciences [MSc(MedSci)]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/cardiovascular-sciences/"
+  },
+  {
+    "course_name": "Celtic Studies [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/celticstudies/"
+  },
+  {
+    "course_name": "Central & East European, Russian & Eurasian Studies (International Master) [IntM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/central-east-european-russian-eurasian-studies/"
+  },
+  {
+    "course_name": "Chemical Biology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/chemical-biology/"
+  },
+  {
+    "course_name": "Chemistry [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/chemistry/"
+  },
+  {
+    "course_name": "Chemistry with Medicinal Chemistry [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/chemistry-medicinal-chemistry/"
+  },
+  {
+    "course_name": "Childhood Practice [MEd/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/childhood-practice/"
+  },
+  {
+    "course_name": "Children's Literature & Literacies [MEd]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/childrens-literature-literacies/"
+  },
+  {
+    "course_name": "Children’s Literature, Media & Cultural Entrepreneurship (Erasmus Mundus International Master) [IntM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/childrens-literature-media-culture/"
+  },
+  {
+    "course_name": "Church History & Theology [MTh]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/church-history-theology/"
+  },
+  {
+    "course_name": "City Planning [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/city-planning/"
+  },
+  {
+    "course_name": "City Planning & Real Estate Development [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/city-planning-real-estate-development/"
+  },
+  {
+    "course_name": "Civil Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/civil-engineering/"
+  },
+  {
+    "course_name": "Civil Engineering & Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/civil-engineering-management/"
+  },
+  {
+    "course_name": "Classics & Ancient History [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/classics/"
+  },
+  {
+    "course_name": "Climate & Environmental Science [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/climateenvironmentalscience/"
+  },
+  {
+    "course_name": "Clinical Critical Care [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/clinical-critical-care-online/"
+  },
+  {
+    "course_name": "Clinical Neuropsychology [MSc(MedSci)/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/clinical-neuropsychology/"
+  },
+  {
+    "course_name": "Clinical Neuropsychology Knowledge & Practice [MSc(MedSci)]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/clinicalneuropsychologyknowledgepractice/"
+  },
+  {
+    "course_name": "Clinical Neuropsychology Practice [PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/clinicalneuropsychologypractice/"
+  },
+  {
+    "course_name": "Clinical Pharmacology [MSc(MedSci)]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/clinicalpharmacology/"
+  },
+  {
+    "course_name": "Clinical Psychology [DClinPsy]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/clinicalpsychology/"
+  },
+  {
+    "course_name": "Clinical Trials [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/clinical-trials/"
+  },
+  {
+    "course_name": "Science Communications [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/science-communications/"
+  },
+  {
+    "course_name": "Comparative Literature [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/comparativeliterature/"
+  },
+  {
+    "course_name": "Computational Geoscience [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/computational-geoscience/"
+  },
+  {
+    "course_name": "Computational Geoscience (Universitas Gadjah Mada dual degree) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/computational-geoscience-gadjah-mada/"
+  },
+  {
+    "course_name": "Computer Systems Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/computersystemsengineering/"
+  },
+  {
+    "course_name": "Computer Systems Engineering (Universitas Gadjah Mada dual degree) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/computer-systems-engineering-gadjah-mada/"
+  },
+  {
+    "course_name": "Computing Science [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/computingscience/"
+  },
+  {
+    "course_name": "Conflict Archaeology & Heritage [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/conflictarchaeology/"
+  },
+  {
+    "course_name": "Conservation Management of African Ecosystems [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/conservationmanagementafricanecosystems/"
+  },
+  {
+    "course_name": "Corporate & Financial Law [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/corporateandfinanciallaw/"
+  },
+  {
+    "course_name": "Sustainability & Corporate Governance [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sustainability-corporate-governance/"
+  },
+  {
+    "course_name": "Creative Industries & Cultural Policy [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/creativeindustriesandculturalpolicy/"
+  },
+  {
+    "course_name": "Creative Sound Design and Audiovisual Media [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/creative-sound-design-audiovisual-media/"
+  },
+  {
+    "course_name": "Creative Writing [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/creativewritingmlitt/"
+  },
+  {
+    "course_name": "Creative Writing (online) [MLitt: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/creativewritingdistancelearning/"
+  },
+  {
+    "course_name": "Criminology [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/criminology/"
+  },
+  {
+    "course_name": "Criminology & Criminal Justice [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/criminology-criminal-justice/"
+  },
+  {
+    "course_name": "Critical Care [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/criticalcare/"
+  },
+  {
+    "course_name": "Curatorial Practice (Contemporary Art) (in conjunction with The Glasgow School of Art) [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/curatorialpractice/"
+  },
+  {
+    "course_name": "Cybersecurity [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/cybersecurity/"
+  },
+  {
+    "course_name": "Data Analytics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/dataanalytics/"
+  },
+  {
+    "course_name": "Data Analytics [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/dataanalyticsonline/"
+  },
+  {
+    "course_name": "Data Analytics for Economics & Finance [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/dataanalyticsforeconomicsfinance/"
+  },
+  {
+    "course_name": "Data Science [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/datascience/"
+  },
+  {
+    "course_name": "Digital Society [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/digitalsociety/"
+  },
+  {
+    "course_name": "Diploma in Professional Legal Practice [PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/professionallegalpracticediploma/"
+  },
+  {
+    "course_name": "Early Modern History [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/earlymodernhistory/"
+  },
+  {
+    "course_name": "Earth Futures: Environments, Communities, Relationships [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/earthfutures/"
+  },
+  {
+    "course_name": "Ecology & Environmental Biology [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/ecologyenvironmentalbiology/"
+  },
+  {
+    "course_name": "Ecology & Environmental Monitoring (Dumfries Campus) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/ecology-and-environmental-monitoring/"
+  },
+  {
+    "course_name": "Economic Development (with Finance & Policy Pathways) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/economicdevelopmentwithfinancepolicypathways/"
+  },
+  {
+    "course_name": "Economics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/economics-msc/"
+  },
+  {
+    "course_name": "Economics [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/economicsmres/"
+  },
+  {
+    "course_name": "Economics, International Banking & Finance [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/economicsinternationalbankingfinance/"
+  },
+  {
+    "course_name": "Education (Primary) [PGDE]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationprimary/"
+  },
+  {
+    "course_name": "Education (Primary) (Dumfries campus) [PGDE]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationprimarydumfriescampus/"
+  },
+  {
+    "course_name": "Education (Secondary STEM Subjects) (Dumfries campus) [PGDE]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/education-secondary-stem-subjects/"
+  },
+  {
+    "course_name": "Education (Secondary) [PGDE]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationsecondary/"
+  },
+  {
+    "course_name": "Education for Sustainable Futures in Adult, Community & Youth Contexts [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationalstudiesadultyouthcommunity/"
+  },
+  {
+    "course_name": "Education in Museums & Heritage (Erasmus Mundus International Master) [IntM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationinmuseumsandheritage/"
+  },
+  {
+    "course_name": "Education Policies for Global Development (Erasmus Mundus International Master) [IntM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationpoliciesforglobaldevelopment/"
+  },
+  {
+    "course_name": "Education, Public Policy & Equity [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationpublicpolicyequity/"
+  },
+  {
+    "course_name": "Educational Leadership [MEd: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationalleadership/"
+  },
+  {
+    "course_name": "Educational Studies [MEd]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationalstudiesmed/"
+  },
+  {
+    "course_name": "Educational Studies [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/educationalstudiesmsc/"
+  },
+  {
+    "course_name": "Electronics & Electrical Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/electronicselectricalengineering/"
+  },
+  {
+    "course_name": "Electronics & Electrical Engineering & Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/electronicselectricalengineeringmanagement/"
+  },
+  {
+    "course_name": "Electronics & Electrical Engineering & Management (Universitas Gadjah Mada dual degree) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/eee-management-gadjah-mada/"
+  },
+  {
+    "course_name": "Electronics & Photonics Manufacturing [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/electronicsmanufacturing/"
+  },
+  {
+    "course_name": "End of Life Studies [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/endoflifestudies/"
+  },
+  {
+    "course_name": "Endodontics [MSc(DentSci)]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/endodontics/"
+  },
+  {
+    "course_name": "Endodontology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/endodontology/"
+  },
+  {
+    "course_name": "English Language & Linguistics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/englishlanguagelinguistics/"
+  },
+  {
+    "course_name": "English Literature [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/englishliterature/"
+  },
+  {
+    "course_name": "English Literature: American Modern Literature [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/americanmodernliterature/"
+  },
+  {
+    "course_name": "English Literature: Fantasy [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/fantasy/"
+  },
+  {
+    "course_name": "English Literature: Modernities - Literature, Culture, Theory [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/modernities/"
+  },
+  {
+    "course_name": "Enhanced Practice in Education (Dumfries campus) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/enhancedpracticeineducation/"
+  },
+  {
+    "course_name": "Environment & Sustainable Development [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/environmentsustainabledevelopment/"
+  },
+  {
+    "course_name": "Environment, Culture & Communication (Dumfries campus) [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/environmentculturecommunication/"
+  },
+  {
+    "course_name": "Environmental Risk Management (Dumfries campus) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/environmentalriskmanagement/"
+  },
+  {
+    "course_name": "Epidemiology of Infectious Diseases & Antimicrobial Resistance [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/infectiousdiseasesantimicrobialresistance/"
+  },
+  {
+    "course_name": "Film & Television Studies [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/filmtelevisionstudies/"
+  },
+  {
+    "course_name": "Film Curation [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/filmcuration/"
+  },
+  {
+    "course_name": "Filmmaking & Media Arts [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/filmmaking/"
+  },
+  {
+    "course_name": "Finance & Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/financemanagement/"
+  },
+  {
+    "course_name": "Financial Economics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/financialeconomics/"
+  },
+  {
+    "course_name": "Financial Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/financial-engineering/"
+  },
+  {
+    "course_name": "Financial Risk Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/financialriskmanagement/"
+  },
+  {
+    "course_name": "Financial Technology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/financialtechnology/"
+  },
+  {
+    "course_name": "Food Security [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/foodsecurity/"
+  },
+  {
+    "course_name": "Gender History [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/genderhistory/"
+  },
+  {
+    "course_name": "Geoinformation Technology & Cartography [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/geoinformationtechnologyandcartography/"
+  },
+  {
+    "course_name": "Geomatics & Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/geomaticsmanagement/"
+  },
+  {
+    "course_name": "Geospatial & Mapping Sciences [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/geospatialandmappingsciences/"
+  },
+  {
+    "course_name": "Geospatial Data Science & Modelling [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/geospatial-data-science-modelling/"
+  },
+  {
+    "course_name": "Global Communications [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/global-communications/"
+  },
+  {
+    "course_name": "Global Economy [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/globaleconomy/"
+  },
+  {
+    "course_name": "Global Gender History [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/global-gender-history/"
+  },
+  {
+    "course_name": "Global Health [MSc/MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/globalhealth/"
+  },
+  {
+    "course_name": "Global History [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/globalhistory/"
+  },
+  {
+    "course_name": "Global Markets, Local Creativities (Erasmus Mundus International Master) [IntM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/globalmarketslocalcreativities/"
+  },
+  {
+    "course_name": "Global Mental Health [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/globalmentalhealth/"
+  },
+  {
+    "course_name": "Global Mental Health (online) [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/globalmentalhealthonline/"
+  },
+  {
+    "course_name": "Global Migrations & Social Justice [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/globalmigrationssocialjusticemsc/"
+  },
+  {
+    "course_name": "Global Security [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/globalsecurity/"
+  },
+  {
+    "course_name": "Health Care, Advanced Practice in [MSc(MedSci)]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/health-care/"
+  },
+  {
+    "course_name": "Health Economics and Health Technology Assessment [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/health-economics-health-technology-assessment/"
+  },
+  {
+    "course_name": "Health Services Management [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/healthservicemanagement/"
+  },
+  {
+    "course_name": "Health-Professions Education / Health-Professions Education (with Research) [MSc/MSc (Research)/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/health-professionseducation/"
+  },
+  {
+    "course_name": "Healthcare Chaplaincy [PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/healthcarechaplaincy/"
+  },
+  {
+    "course_name": "History [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/history/"
+  },
+  {
+    "course_name": "Housing Studies [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/housingstudies/"
+  },
+  {
+    "course_name": "Human Geography: Spaces, Politics, Ecologies [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/humangeographyspacespoliticsecologies/"
+  },
+  {
+    "course_name": "Human Nutrition [MSc(MedSci)]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/humannutrition/"
+  },
+  {
+    "course_name": "Human Rights [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/human-rights/"
+  },
+  {
+    "course_name": "Human Rights & International Politics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/humanrightsinternationalpolitics/"
+  },
+  {
+    "course_name": "Immunology & Inflammatory Disease [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/immunologyinflammatorydisease/"
+  },
+  {
+    "course_name": "In Headship [PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/inheadship/"
+  },
+  {
+    "course_name": "Inclusive Education: Research, Policy & Practice [MEd]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/inclusiveeducationresearchpolicypracticemed/"
+  },
+  {
+    "course_name": "Inclusive Education: Research, Policy & Practice [PgDip/PgCert: Online distance learning available]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/inclusiveeducationpolicypracticepgdip/"
+  },
+  {
+    "course_name": "Industrial Biotechnology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/industrial-biotechnology/"
+  },
+  {
+    "course_name": "Industrial Biotechnology (with Industry Training) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/industrial-biotechnology-with-industry-training/"
+  },
+  {
+    "course_name": "Industrial Heterogeneous Catalysis [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/industrialheterogeneouscatalysis/"
+  },
+  {
+    "course_name": "Infant Mental Health [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/infant-mental-health/"
+  },
+  {
+    "course_name": "Infection Biology (with specialisms) [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/infectionbiologywithspecialisms/"
+  },
+  {
+    "course_name": "Information Management & Preservation [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/informationmanagementpreservation/"
+  },
+  {
+    "course_name": "Information Technology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/informationtechnology/"
+  },
+  {
+    "course_name": "Intellectual Property & the Digital Economy [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/intellectualproperty/"
+  },
+  {
+    "course_name": "International & Comparative Education [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalandcomparativeeducation/"
+  },
+  {
+    "course_name": "International Accounting & Financial Management [MAcc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalaccountingfinancialmanagement/"
+  },
+  {
+    "course_name": "International Business [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalbusiness/"
+  },
+  {
+    "course_name": "International Commercial Law [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalcommerciallaw/"
+  },
+  {
+    "course_name": "International Competition Law & Policy [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalcompetitionlawpolicy/"
+  },
+  {
+    "course_name": "International Corporate Finance & Banking [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/corporate-finance-banking/"
+  },
+  {
+    "course_name": "International Economic Law [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationaleconomiclaw/"
+  },
+  {
+    "course_name": "International Finance [MFin]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalfinance/"
+  },
+  {
+    "course_name": "International Financial Analysis [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalfinancialanalysis/"
+  },
+  {
+    "course_name": "International Human Resource Management & Development [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalhumanresourcemanagementdevelopment/"
+  },
+  {
+    "course_name": "International Law [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationallaw/"
+  },
+  {
+    "course_name": "International Law & Security [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationallawandsecurity/"
+  },
+  {
+    "course_name": "International Management & Design Innovation [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalmanagementanddesigninnovation/"
+  },
+  {
+    "course_name": "International Relations [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalrelations/"
+  },
+  {
+    "course_name": "International Relations [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalrelationsresearch/"
+  },
+  {
+    "course_name": "International Strategic Marketing [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalstrategicmarketing/"
+  },
+  {
+    "course_name": "Into Headship [PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/intoheadship/"
+  },
+  {
+    "course_name": "Investment Banking & Finance [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/investmentbankingfinance/"
+  },
+  {
+    "course_name": "Land & Hydrographic Surveying [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/landhydrographicsurveying/"
+  },
+  {
+    "course_name": "Land & Hydrographic Surveying (Universitas Gadjah Mada dual degree) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/land-hydrographic-surveying-gadjah-mada/"
+  },
+  {
+    "course_name": "Land & Hydrographic Surveying with Work Placement [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/landhydrographicsurveyingworkplacement/"
+  },
+  {
+    "course_name": "Law [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/law/"
+  },
+  {
+    "course_name": "Leadership & Learning [PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/leadership-and-learning/"
+  },
+  {
+    "course_name": "Library & Information Studies [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/library-information-studies/"
+  },
+  {
+    "course_name": "Lymphoedema Management, Advanced [PgCert: Blended learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/advanced-lymphoedema-management/"
+  },
+  {
+    "course_name": "Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/managementmsc/"
+  },
+  {
+    "course_name": "Management [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/managementmres/"
+  },
+  {
+    "course_name": "Management & Sustainable Tourism (Dumfries campus) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/managementsustainabletourism/"
+  },
+  {
+    "course_name": "Management with Enterprise & Business Growth [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/managementwithenterprise/"
+  },
+  {
+    "course_name": "Management with Human Resources [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/managementwithhumanresources/"
+  },
+  {
+    "course_name": "Management with Marketing [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/management-with-marketing/"
+  },
+  {
+    "course_name": "Managing Art & Cultural Heritage in Global Markets (Erasmus Mundus International Master) [IntM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/managingartculturalheritageglobalmarkets/"
+  },
+  {
+    "course_name": "Material Culture & Artefact Studies [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/materialcultureartefactstudies/"
+  },
+  {
+    "course_name": "MBA (Master of Business Administration) [MBA]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/businessadministration/"
+  },
+  {
+    "course_name": "Mechanical Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/mechanicalengineering/"
+  },
+  {
+    "course_name": "Mechanical Engineering & Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/mechanicalengineeringmanagement/"
+  },
+  {
+    "course_name": "Mechatronics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/mechatronics/"
+  },
+  {
+    "course_name": "Media Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/mediamanagement/"
+  },
+  {
+    "course_name": "Media, Communications & International Journalism [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/mediacommunicationsinternationaljournalism/"
+  },
+  {
+    "course_name": "Media, Culture & Society [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/mediaculturesociety/"
+  },
+  {
+    "course_name": "Medical Devices Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/"
+  },
+  {
+    "course_name": "Medical Genetics & Genomics [MSc(MedSci)]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/medicalgeneticsandgenomics/"
+  },
+  {
+    "course_name": "Medical Physics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/medicalphysics/"
+  },
+  {
+    "course_name": "Medical Visualisation & Human Anatomy [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/medicalvisualisation/"
+  },
+  {
+    "course_name": "Medieval History [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/medievalhistory/"
+  },
+  {
+    "course_name": "MedTech Innovation [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/medtech-innovation/"
+  },
+  {
+    "course_name": "Middle Leadership & Management in Schools [PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/middleleadershipandmanagementinschools/"
+  },
+  {
+    "course_name": "Ministry, Theology & Practice [MTh/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/ministrytheologypractice/"
+  },
+  {
+    "course_name": "Modern History [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/modernhistory/"
+  },
+  {
+    "course_name": "Museum Education [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/museumeducation/"
+  },
+  {
+    "course_name": "Museum Studies [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/museumstudies/"
+  },
+  {
+    "course_name": "Music Industries [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/musicindustries/"
+  },
+  {
+    "course_name": "Musicology [MMus]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/musicology/"
+  },
+  {
+    "course_name": "Nanoscience & Nanotechnology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/nanosciencenanotechnology/"
+  },
+  {
+    "course_name": "Nuclear & Environmental Physics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/nuclearenvironmentalphysics/"
+  },
+  {
+    "course_name": "Nursing Science, Advanced [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/advanced-nursing-sciences/"
+  },
+  {
+    "course_name": "One Health & Infectious Disease [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/one-health-infectious-disease/"
+  },
+  {
+    "course_name": "Oral & Maxillofacial Surgery [MSc(DentSci)]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/oralmaxillofacialsurgery/"
+  },
+  {
+    "course_name": "Oral Sciences [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/oralsciences/"
+  },
+  {
+    "course_name": "Palliative Care [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/palliativecare/"
+  },
+  {
+    "course_name": "Philosophy [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/philosophy/"
+  },
+  {
+    "course_name": "Philosophy (Conversion) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/philosophyconversion/"
+  },
+  {
+    "course_name": "Philosophy of Mind & Psychology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/philosophyofmindpsychology/"
+  },
+  {
+    "course_name": "Philosophy of Mind and Psychology (Conversion) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/philosophy-of-mind-and-psychology-conversion/"
+  },
+  {
+    "course_name": "Philosophy: Knowledge & Society [IntM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/philosophy-knowledge-society/"
+  },
+  {
+    "course_name": "Playwriting & Dramaturgy [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/playwritingdramaturgy/"
+  },
+  {
+    "course_name": "Political Communication [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/politicalcommunication/"
+  },
+  {
+    "course_name": "Positive Behaviour Support [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/positive-behaviour-support/"
+  },
+  {
+    "course_name": "Precision Medicine [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/precision-medicine/"
+  },
+  {
+    "course_name": "Product Design Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/productdesignengineering/"
+  },
+  {
+    "course_name": "Professional Practice with PGDE [MEd]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/professionalpracticewithpgde/"
+  },
+  {
+    "course_name": "Psychological Science (conversion) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceconversion/"
+  },
+  {
+    "course_name": "Psychological Science, Research Methods of [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/"
+  },
+  {
+    "course_name": "Psychological Studies (conversion) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/psychologicalstudiesconversion/"
+  },
+  {
+    "course_name": "Psychology (conversion) [MSc: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/psychologyconversionmsconline/"
+  },
+  {
+    "course_name": "Public Health [MPH/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/publichealth/"
+  },
+  {
+    "course_name": "Public Health (online) [MPH/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/publichealthonline/"
+  },
+  {
+    "course_name": "Public Policy & Management [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/publicpolicymanagement/"
+  },
+  {
+    "course_name": "Public Policy Research [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/publicpolicyresearch/"
+  },
+  {
+    "course_name": "Quantitative Methods in Biodiversity, Conservation & Epidemiology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/ecologyepidemiologyconservationbiology/"
+  },
+  {
+    "course_name": "Quantum Technology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/quantumtechnology/"
+  },
+  {
+    "course_name": "Real Estate [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/realestate/"
+  },
+  {
+    "course_name": "Real Estate [PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/realestatepgcert/"
+  },
+  {
+    "course_name": "Religion & Global Challenges [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/religion-global-challenges/"
+  },
+  {
+    "course_name": "Religious Education by Distance Learning (CREDL) [Cert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/religiouseducationbydistancelearning/"
+  },
+  {
+    "course_name": "Reparatory Justice [MSc/MA]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/reparatory-justice/"
+  },
+  {
+    "course_name": "Robotics & AI [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/roboticsai/"
+  },
+  {
+    "course_name": "Robotics & AI (Universitas Gadjah Mada dual degree) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/robotics-ai-gadjah-mada/"
+  },
+  {
+    "course_name": "Russian, East European & Eurasian Studies [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/russiancentraleasteuropeanstudiesmsc/"
+  },
+  {
+    "course_name": "Russian, East European & Eurasian Studies [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/russiancentraleasteuropeanstudiesmres/"
+  },
+  {
+    "course_name": "Science Public Engagement [PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/science-public-engagement/"
+  },
+  {
+    "course_name": "Scottish History [MSc/PgDip]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/scottishhistory/"
+  },
+  {
+    "course_name": "Security, Intelligence & Strategic Studies (International Master) [IntM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/internationalsecurity/"
+  },
+  {
+    "course_name": "Sensor & Imaging Systems [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sensorandimagingsystems/"
+  },
+  {
+    "course_name": "Sociology [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sociology/"
+  },
+  {
+    "course_name": "Sociology & Research Methods [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sociologyresearchmethods/"
+  },
+  {
+    "course_name": "Software Development [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/"
+  },
+  {
+    "course_name": "Space Science [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/space-science/"
+  },
+  {
+    "course_name": "Spatial Planning [PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/spatialplanningpgcert/"
+  },
+  {
+    "course_name": "Speech, Language & Sociolinguistics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/speechlanguageandsociolinguistics/"
+  },
+  {
+    "course_name": "Sport & Exercise Science & Medicine [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sportandexercisesciencemedicine/"
+  },
+  {
+    "course_name": "Sport & Exercise Science & Medicine [MSc/PgDip/PgCert: Online distance learning]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sportandexercisescienceandmedicineonline/"
+  },
+  {
+    "course_name": "Stem Cell Engineering for Regenerative Medicine [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/stemcellengineering/"
+  },
+  {
+    "course_name": "Structural Engineering [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/structuralengineering/"
+  },
+  {
+    "course_name": "Structural Engineering (Universitas Gadjah Mada dual degree) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/structural-engineering-gadjah-mada/"
+  },
+  {
+    "course_name": "Sustainable Energy [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sustainableenergy/"
+  },
+  {
+    "course_name": "Sustainable Energy (Universitas Gadjah Mada dual degree) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sustainable-energy-gadjah-mada/"
+  },
+  {
+    "course_name": "Sustainable Integrated Coastal Zone Management (Dumfries campus) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sustainable-integrated-coastal-zone-management/"
+  },
+  {
+    "course_name": "Sustainable Tourism & Global Challenges (Dumfries campus) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sustainabletourismglobalchallenges/"
+  },
+  {
+    "course_name": "Sustainable Water Environments [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sustainablewaterenvironments/"
+  },
+  {
+    "course_name": "Sustainable Water Environments (Universitas Gadjah Mada dual degree) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/sustainable-water-environments-gadjah-mada/"
+  },
+  {
+    "course_name": "Teaching",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/?subject=teaching&location=all&date=all"
+  },
+  {
+    "course_name": "Technology Law & Regulation [LLM]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/technology-law-regulation/"
+  },
+  {
+    "course_name": "TESOL: Teaching of English to Speakers of Other Languages [MEd]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/tesolmed/"
+  },
+  {
+    "course_name": "TESOL: Teaching of English to Speakers of Other Languages [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/tesolmsc/"
+  },
+  {
+    "course_name": "Textile Conservation [MPhil]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/textileconservation/"
+  },
+  {
+    "course_name": "Theatre & Performance Practices [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/theatrepractices/"
+  },
+  {
+    "course_name": "Theatre Studies [MLitt]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/theatrestudies/"
+  },
+  {
+    "course_name": "Theoretical Physics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/theoreticalphysics/"
+  },
+  {
+    "course_name": "Tourism & Heritage (Dumfries campus) [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/tourism-heritage/"
+  },
+  {
+    "course_name": "Translation Studies [MSc/PgDip/PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/translationstudies/"
+  },
+  {
+    "course_name": "Urban Analytics [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/urbananalytics/"
+  },
+  {
+    "course_name": "Urban Research [MRes]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/urbanresearch/"
+  },
+  {
+    "course_name": "Urban Studies [PgCert]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/urbanstudies/"
+  },
+  {
+    "course_name": "Urban Transport [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/urbantransport/"
+  },
+  {
+    "course_name": "War Studies [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/warstudies/"
+  },
+  {
+    "course_name": "Wealth Management & Private Equity [MSc]",
+    "course_link": "https://www.gla.ac.uk/postgraduate/taught/wealthmanagementandprivateequity/"
+  }
+]
